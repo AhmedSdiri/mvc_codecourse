@@ -1,6 +1,7 @@
 <?php
 
+
 require_once '../app/init.php';
-require '../app/core/App.php';
+require_once '../app/core/App.php';
 
 $app = new App();
